@@ -3,7 +3,8 @@ A basic library to handle directory inputs in rust for linux.
 
 ## Functions
 - get_dir_input
-Usage:
+- 
+## Usage:
 ```rust
 get_dir_input(message);
 ```
