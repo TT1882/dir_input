@@ -1,4 +1,4 @@
-use simple_home_dir::*;a
+use simple_home_dir::*;
 use std::{path::Path, io, process::{exit, Command}};
 
 pub fn get_dir_input(message: &str) -> String {
