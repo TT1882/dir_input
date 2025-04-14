@@ -1,5 +1,5 @@
 # dir_input
-A basic library to handle directory inputs in rust for linux.
+A basic crate to handle directory inputs in rust for linux.
 
 ## Functions
 - get_dir_input
